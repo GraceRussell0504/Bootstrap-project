@@ -1,0 +1,21 @@
+body {
+    background-color :#e7e7e7;
+}
+
+footer{
+    background-color:#e7e7e7;
+    color:DimGray;
+}
+
+img{
+    height:300px;
+    width:260px;
+}
+
+p{
+    font-family:verdana;
+}
+
+a{
+    color:black;
+}
